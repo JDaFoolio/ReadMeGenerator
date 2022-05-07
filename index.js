@@ -48,7 +48,7 @@ let questions = [
     } , {
         type: "input",
         message: "Please provide your github username",
-        name: "username"
+        name: "userName"
     }
 ];
 
