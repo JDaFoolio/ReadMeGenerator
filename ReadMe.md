@@ -1,23 +1,21 @@
-# example name
-    ##### [JDaFoolio][Email Me](longja2015@gmail.com)
-    #### MIT
+# Readme Generator
+##### [JDaFoolio] [Email Me](longja2015@gmail.com)
+#### MIT
     
-    ## Table of Contents
-    * [Repository Description](#Repository-Description)
-    * [Installation Instructions](#Install)
-    * [Usage Information](#Use)
-    
-    # Repository Description
-    ###### [Back to Table of Contents](#Table-of-Contents)
-    description
-    
-    ## Installation Instructions
-    ###### [Back to Table of Contents](#Table-of-Contents)
-    usage
+## Table of Contents
+* [Repository Description](#Repository-Description)
+* [Installation Instructions](#Installation)
+* [Usage Information](#Use)
+* [References](#Ref)
 
-    ## Contribution Guidelines
-    ###### [Back to Table of Contents](#Table-of-Contents)
-    n/a
+    
+# Repository Description
+###### [Back to Table of Contents](#Table-of-Contents)
+a program that auto generates readme.md
 
-    ## License
-    MIT
+### Contribution Guidelines
+###### [Back to Table of Contents](#Table-of-Contents)
+n/a
+    
+## License
+MIT
