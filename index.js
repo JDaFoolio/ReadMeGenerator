@@ -8,7 +8,7 @@ let questions = [
     {
         type: "input",
         message: "What is the name of the repository?",
-        name: "name"
+        name: "title"
     },{
         type: "input",
         message: "Please provide a description of the repository?",
@@ -54,7 +54,7 @@ let questions = [
 
 //Function to write the readme.md file 
 inquirer.prompt(questions).then(function(response) {
-    console.long(response);
+    console.log(response);
 
     var content = readmeGenerator(response);
     console.log(content);

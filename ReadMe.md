@@ -1,7 +1,6 @@
-function readmeGenerator(response) {
-    var content = `# ${response.title}
-    ##### [${response.userName}][Email Me](${response.email})
-    #### ${response.license}
+# example name
+    ##### [JDaFoolio][Email Me](longja2015@gmail.com)
+    #### MIT
     
     ## Table of Contents
     * [Repository Description](#Repository-Description)
@@ -10,19 +9,15 @@ function readmeGenerator(response) {
     
     # Repository Description
     ###### [Back to Table of Contents](#Table-of-Contents)
-    ${response.description}
+    description
     
     ## Installation Instructions
     ###### [Back to Table of Contents](#Table-of-Contents)
-    ${response.use}
+    usage
 
     ## Contribution Guidelines
     ###### [Back to Table of Contents](#Table-of-Contents)
-    ${response.contribution}
+    n/a
 
     ## License
-    ${response.license}`
-    return content;
-};
-
-module.exports = readmeGenerator;
+    MIT
